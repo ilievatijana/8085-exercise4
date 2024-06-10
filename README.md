@@ -1,4 +1,4 @@
-# 8085-Zadaca4
+# 8085-exercise4
 Write an equivalent assembly program to the corresponding C program:
 void main()
 {
@@ -11,4 +11,4 @@ void main()
  }
 } 
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca4/blob/main/image.png)
+![Screenshot (1)](https://github.com/ilievatijana/8085-exercise4/blob/main/image.png)
